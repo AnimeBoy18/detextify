@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "detextify-trchfix"
+name = "detextify"
 version = "0.1.9"
 description = ""
 authors = ["Julia <turc.raluca@gmail.com>", "Mihail <mihail911@gmail.com>"]
